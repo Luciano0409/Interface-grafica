@@ -1,3 +1,5 @@
+# Fiz esse script com o intuito de testar a lib tkinter. Tkinter é uma lib para gerar interfaces gráficas no python.
+
 # Instala biblitecas
 def Bibliotecas():
     import os
